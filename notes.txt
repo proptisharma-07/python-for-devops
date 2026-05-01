@@ -1,0 +1,32 @@
+github notes: 
+python --version
+git --version
+git config --global user.name "proptisharma-07'
+git config --user.email "proptisharma@gmail.com"
+git config --list
+git init 
+git status
+branch : by default : 
+1.master branch 
+2. main branch 
+3. custom branch/feature branch 
+git add .
+git commit -m "its propti"
+git branch -M main 
+git branch  
+git remote add origin https://github.com/proptisharma-07/python-for-devops.git
+git push -u origin main
+is : show all files and folder within currnet folder. 
+cd .. : go back one step to the directory. 
+cd my folder name : enter to the targeted folder. 
+
+............
+1. modified : new.py
+2. delete : env
+3. new file : second.py
+git add. 
+git add new.py
+git commit -m "meaning full commit msg"
+git push -u origin main 
+
+git status 
