@@ -30,3 +30,7 @@ git commit -m "meaning full commit msg"
 git push -u origin main 
 
 git status 
+is : show all files and folder witnin current folder. 
+cd .. : go back one step to the directory.
+cd folder name : enter to the targeted folder.
+git log : show details about last commit. 

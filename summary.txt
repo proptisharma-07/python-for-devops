@@ -1,0 +1,12 @@
+what is phython /
+variable and its rules.
+arithmatic operatins.
+input/output (I/o)
+type casting and type conversion 
+str ()
+float()
+int()
+data type.
+number (int,float)
+string (",", "",)
+boolean (true'false)
