@@ -6,6 +6,7 @@ type casting and type conversion
 str ()
 float()
 int()
+......
 data type.
 number (int,float)
 string (",", "",)
