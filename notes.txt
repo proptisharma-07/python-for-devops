@@ -34,3 +34,5 @@ is : show all files and folder witnin current folder.
 cd .. : go back one step to the directory.
 cd folder name : enter to the targeted folder.
 git log : show details about last commit. 
+git gh = repo creat krmne k liy 
+  #i ndentesion = space issue spance ni hona chiye

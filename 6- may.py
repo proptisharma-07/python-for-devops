@@ -28,8 +28,28 @@ price = 800
 
 
 age = "mumbai"
-print(name == "Mumbai")
+#print(name == "Mumbai")
 
+
+# wap to print the last digit of and number is 456735\
+int = 456735
+#print( int % 10)
+
+
+num1 = 3 
+num2 = 9 
+num3 = 12 
+# wap to find largest 
+# wap to find smallest 
+
+res = max(num1 , num2 , num3)
+#print(res)
+
+if num1>=num2 and num1>=num3:
+    print(f"{num1}is greatest")
+
+if num2>=num1 and num2>=num3
+print(f"{num2}is greatest")
       
-
-
+if num3>=num2 and num3>=num1
+print(f"{num3}is greatest")
