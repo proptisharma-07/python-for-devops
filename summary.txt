@@ -11,3 +11,10 @@ data type.
 number (int,float)
 string (",", "",)
 boolean (true'false)
+
+conditinol statement:-
+
+if else 
+multiple if 
+if elif else 
+nested if else (chainig / ladder)
