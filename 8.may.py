@@ -23,4 +23,4 @@
 num1=int(input("Enter the number - "))
 for i in range(20,10,-2):
     result=20*2
-    print(f"(20) x {i} = {result}")
+    print(f"(20) x {i} = {result}") 
