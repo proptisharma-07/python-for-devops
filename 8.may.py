@@ -20,7 +20,13 @@
 
 #3. Wap to take a number from user input and print reversed formatted table.
 
-num1=int(input("Enter the number - "))
-for i in range(20,10,-2):
-    result=20*2
-    print(f"(20) x {i} = {result}") 
+# num1=int(input("Enter the number - "))
+# for i in range(20,10,-2):
+#     result=20*2
+#     print(f"(20) x {i} = {result}") 
+
+#wap to print formated table on a number give by user. 
+
+# num1=int(input("enter the number - "))
+# for i in range(1 , 11 ):
+#     print(f" {num1} x {i} = {num1*i}")
