@@ -38,10 +38,3 @@
 #     print(c)
 # sub(50,20)
 
-def add(a=0,b=0)
-    print("addotion :",a+b)
-
-def sub(a=0,b=0) :
-    print("subtraction :",a-b)
-
-def mul(a=0,)       
