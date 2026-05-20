@@ -38,3 +38,61 @@
 #     print(c)
 # sub(50,20)
 
+
+#waf to check number pass by argument is odd or even.
+
+# def odd_even (a):
+#     if a % 2==0:
+#         print("Even")
+#     else:
+#         print("odd")
+# odd_even(4)
+
+#waf to check which number is greater and two number by user.
+
+# def check_greater (n1,n2)
+#     if n1 > n2 :
+#         print(n1 ,"is greter")
+#     else:
+#      print(n2 ,"is greter")
+#     n1=11
+#     n2=22
+# check_greater(n1,n2)
+
+#Waf to check the character pass by user is vowel or consonant.
+
+# def check_character(char):
+#     if  char in "aeiou" :
+#         print ("vowel")
+#     else:
+#         print ("consonents")
+# check_character("b")        
+
+
+#waf to check in number completly divide by 2 and 3 and return
+#"yes number is completely devide"
+#"n
+# not completely divide"
+
+# def check_divide(num):
+#     if num%2==0 and num%3==0:
+#         return "yes number is completely devide"
+#     else:
+#         return "no completely divide"
+# res =check_divide(6)
+# print(res)
+
+# waf to return length of a string pass by user without using len().
+# def len_string(s):
+#     c=0
+#     for i in s:
+#         c=c+1
+#         return c
+# print(len_string("python"))
+
+
+
+#waf to check number pass by argument is odd or even.
+
+def odd_even(a):
+    if a %
