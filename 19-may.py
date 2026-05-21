@@ -94,5 +94,43 @@
 
 #waf to check number pass by argument is odd or even.
 
-def odd_even(a):
-    if a %
+# def odd_even(a):
+#     if a % 2==0:
+#         print("odd")
+#     else:
+#         print("even")
+# odd_even(6)
+
+
+#waf to check which number is greater and two number by user.
+
+# def check_greater (n1 , n2):
+#     if n1 > n2 :
+#         print (n1 ,"is greater")
+#     else:
+#       print (n2 ,"is greater")
+# n1=66
+# n2=87        
+# check_greater(n1 ,n2)
+
+#Waf to check the character pass by user is vowel or consonant.
+
+# def check_character(char):
+#     if char in "aeiou":
+#         print ("vowel")
+#     else:
+#         print ("consonant")
+# check_character("a")
+
+#waf to check in number completly divide by 2 and 3 and return
+
+# def check_divide(n1):
+#     if n1%2==0  and n1%3==0:
+#        return "yes number is divide "
+#     else:
+#         return "not completly divide  "
+# res=check_divide(10)
+# print(res)
+
+
+
