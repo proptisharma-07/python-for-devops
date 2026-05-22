@@ -134,3 +134,17 @@
 
 
 
+# waf to check given how many vowel in a given string.
+
+# def vowel_count(a):
+#     c=0
+#     for i in a:
+#         if i in "aeiou":
+#             c+=1
+#     return c
+# res=vowel_count("propti") 
+# print(res)       
+
+    
+    
+    
