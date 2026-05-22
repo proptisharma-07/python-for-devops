@@ -112,3 +112,97 @@
 # y=1
 # result=x**3 - y**3
 # print(result)
+
+
+
+
+
+
+
+# # 21. Area of Triangle
+# def area_triangle(base, height):
+#     area = 0.5 * base * height
+#     return("Area =", area)
+
+# res = area_triangle(10, 6)
+# print(res)
+
+# # 22. Perimeter of Square
+# def perimeter_square(side):
+#     perimeter = 4 * side
+#     return("Perimeter =", perimeter)
+
+# res = perimeter_square(9)
+# print(res)
+
+# # 23. Diameter of Circle
+# def diameter_circle(radius):
+#     diameter = 2 * radius
+#     return("Diameter =", diameter)
+
+# res = diameter_circle(14)
+# print(res)
+
+# # 24. Volume of Cube
+# def volume_cube(side):
+#     volume = side ** 3
+#     return("Volume =", volume)
+
+# res = volume_cube(5)
+# print(res)
+
+# # 25. Surface Area of Cuboid
+# def surface_area_cuboid(l, b, h):
+#     surface_area = 2 * (l*b + b*h + l*h)
+#     return("Surface Area =", surface_area)
+
+# res = surface_area_cuboid(4, 3, 2)
+# print(res)
+
+# # 26. Square of Sum (x + y)^2
+# def square_of_sum(x, y):
+#     result = (x + y) ** 2
+#     return("Output =", result)
+
+# res = square_of_sum(5, 7)
+# print(res)
+
+# # 27. x^2 - 4x + 4
+# def simplify_expression(x):
+#     result = x**2 - 4*x + 4
+#     return("Output =", result)
+
+# res = simplify_expression(3)
+# print(res)
+
+# # 28. (a + b)(a - b)
+# def evaluate_expression(a, b):
+#     result = (a + b) * (a - b)
+#     return("Output =", result)
+
+# res = evaluate_expression(6, 2)
+# print(res)
+
+# # 29. Sum of Cubes a^3 + b^3
+# def sum_of_cubes(a, b):
+#     result = a**3 + b**3
+#     return("Output =", result)
+
+# res = sum_of_cubes(1, 2)
+# print(res)
+
+# # 30. (x - y)^2
+# def square_difference(x, y):
+#     result = (x - y) ** 2
+#     return("Output =", result)
+
+# res = square_difference(10, 6)
+# print(res)
+
+# # 31. Difference of Cubes x^3 - y^3
+# def difference_of_cubes(x, y):
+#     result = x**3 - y**3
+#     return("Output =", result)
+
+# res=difference_of_cubes(4, 1)
+# print(res)
